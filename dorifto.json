@@ -1,0 +1,45 @@
+{
+	"room": "Anti-Sociopatai",
+	"author": "-Mr. Ruthless",
+	"icon": "",
+	"css": "https://rawgit.com/SomeRandomFuck/anti-sociopatai/master/bmw.css",
+	"rules": {
+		"allowAutorespond": true,
+		"allowAutowoot":    true,
+		"allowAutojoin":    true,
+		"allowAutograb":    true,
+		"allowSmartVote":   true,
+		"allowEmotes":      true,
+		"allowShowingMehs": true,
+		"forceSmartVote":   false
+	},
+	"ccc": {
+		"admin":            "#AD1F1F",
+		"ambassador":       "#E9812D",
+		"host":             "#ffffff",
+		"cohost":           "#ffffff",
+		"manager":          "#990000",
+		"bouncer":          "#FACC2E",
+		"rdj":              "#b3b3b3",
+		"subscriber":       "#8694b2",
+		"silversubscriber": "#8694b2",
+		"friend":           "#A68CD9",
+		"you":              "0AF"
+	},
+	"images": {
+		"background":       "https://cdn.radiant.dj/rcs/bg/10.png",
+		"playback":         "null",
+		"admin":            "null",
+		"ambassador":       "null",
+		"host":             "https://i.imgur.com/LaiPfo7.png",
+		"cohost":           "https://i.imgur.com/rf2ump5.png",
+		"manager":          "https://i.imgur.com/8UHayPw.png",
+		"bouncer":          "https://i.imgur.com/Qi3M2CL.png",
+		"rdj":              "https://i.imgur.com/nSj16TA.png",
+		"subscriber":       "http://i.imgur.com/gYyGQel.png",
+		"silversubscriber": "http://i.imgur.com/nFbwvVJ.png"
+	},
+	"emotes": {
+		"emote_name": null
+	}
+}
